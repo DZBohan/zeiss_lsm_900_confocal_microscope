@@ -1,4 +1,4 @@
-# Zeiss LSM 900 Confocal Microscope #2 — Training Notes
+# Zeiss LSM 900 Confocal Microscope #2 Training Notes
 
 **Location:** Furth Building, Room F1116, City of Hope  
 **Software:** ZEN 3.8 (ZEN system)  
