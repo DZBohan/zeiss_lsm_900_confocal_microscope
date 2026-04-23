@@ -11,7 +11,7 @@
 The Zeiss LSM 900 is a laser scanning confocal microscope (LSM = Laser Scanning Microscope) equipped with two acquisition modes:
 
 - **Confocal mode** — standard point-scanning with a physical pinhole and PMT detectors
-- **Airyscan mode** — super-resolution mode using a 32-unit hexagonal detector array (SR = Super Resolution)
+- **Airyscan mode** — `super-resolution` mode using a 32-unit hexagonal detector array (SR = Super Resolution)
 
 ---
 
